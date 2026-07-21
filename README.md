@@ -45,7 +45,7 @@ Hi, I'm **Indresh Thakur**
 
 ---
 
-> ls /tech-stack
+**> ls /tech-stack**
 
 **Languages —**
 
@@ -111,7 +111,7 @@ Hi, I'm **Indresh Thakur**
 
 ---
 
-**> ls /projects **
+**> ls /projects**
 
 <details open>
 <summary><b>▶ i.Vision — Personal AI Assistant</b></summary><br/>
@@ -158,7 +158,7 @@ Repo | github.com/Ithakur2327
 
 ---
 
-**> cat coding-profiles.sh — LeetCode (live)**
+**> LeetCode (live)**
 
 <div align="center">
 
@@ -168,7 +168,7 @@ Repo | github.com/Ithakur2327
 
 ---
 
-**> git stats **
+**> git stats**
 
 <div align="center">
 
