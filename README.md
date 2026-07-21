@@ -22,23 +22,41 @@
 Hi, I'm **Indresh Thakur**
 
 <table align="left">
-<tr><td>
+<tr>
+<td>
 
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<img src="https://api.iconify.design/tabler:user-code.svg?color=%23D4AF37" width="22" height="22"/>
+<span style="margin-left:10px;"><b>AI Software Engineer</b></span>
+</div>
 
-<img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>AI Software Engineer</b>
-<br/>
-<img src="https://api.iconify.design/mdi:school.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>B.Tech CSE (AI)</b> • NIET Greater Noida
-<br/>
-<img src="https://api.iconify.design/mdi:map-marker.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>Noida, India</b>
-<br/>
-<img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>Open to Full-Stack & AI Roles</b>
-<br/>
-<img src="https://api.iconify.design/mdi:code-braces.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>Code:</b> C++ • Python • JavaScript • TypeScript
-<br/>
-<img src="https://api.iconify.design/mdi:robot-happy-outline.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>Currently Learning:</b> Agentic AI & Multi-Agent Orchestration 🔮
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<img src="https://api.iconify.design/mdi:school.svg?color=%23D4AF37" width="22" height="22"/>
+<span style="margin-left:10px;"><b>B.Tech CSE (AI)</b> • NIET Greater Noida</span>
+</div>
 
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<img src="https://api.iconify.design/mdi:map-marker.svg?color=%23D4AF37" width="22" height="22"/>
+<span style="margin-left:10px;"><b>Noida, India</b></span>
+</div>
 
-</td></tr>
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<img src="https://api.iconify.design/mdi:code-braces.svg?color=%23D4AF37" width="22" height="22"/>
+<span style="margin-left:10px;"><b>Code:</b> C++ • Python • JavaScript • TypeScript</span>
+</div>
+
+<div style="display:flex;align-items:center;margin-bottom:8px;">
+<img src="https://api.iconify.design/mdi:robot-happy-outline.svg?color=%23D4AF37" width="22" height="22"/>
+<span style="margin-left:10px;"><b>Currently Learning:</b> Agentic AI & Multi-Agent Orchestration 🔮</span>
+</div>
+
+<div style="display:flex;align-items:center;">
+<img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23D4AF37" width="22" height="22"/>
+<span style="margin-left:10px;"><b>Open to Full-Stack & AI Roles</b></span>
+</div>
+
+</td>
+</tr>
 </table>
 
 <br clear="left"/>
@@ -74,7 +92,6 @@ Hi, I'm **Indresh Thakur**
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/><sub>Node.js</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" height="40"/><br/><sub>Express.js</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/><br/><sub>FastAPI</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/><br/><sub>GraphQL</sub></td>
 </tr></table>
 
 **Cloud & DevOps —**
@@ -90,7 +107,6 @@ Hi, I'm **Indresh Thakur**
 **GenAI / AI —**
 
 <table><tr>
-<td align="center"><img src="https://api.iconify.design/simple-icons:openai.svg?color=%2310A37F" width="40" height="40"/><br/><sub>LLM APIs</sub></td>
 <td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="40" height="40"/><br/><sub>LangChain</sub></td>
 <td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="40" height="40"/><br/><sub>LangGraph</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br/><sub>RAG</sub></td>
@@ -106,7 +122,7 @@ Hi, I'm **Indresh Thakur**
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><sub>Git</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40"/><br/><sub>GitHub</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/><br/><sub>Postman</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br/><sub>VS Code</sub></td>
+
 </tr></table>
 
 ---
