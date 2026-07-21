@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=000000&text=Indresh%20Thakur&fontColor=0145F2&fontSize=80&fontAlignY=48&fontFamily=Poppins"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=000000&text=Indresh%20Thakur&fontColor=0145F2&fontSize=85&fontAlignY=48&fontFamily=Poppins"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=F7B538&center=true&vCenter=true&width=900&repeat=false&lines=Exploring+the+space+between+human+creativity+and+machine+intelligence."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=F7B538&center=true&vCenter=true&width=900&repeat=true&lines=Exploring+the+space+between+human+creativity+and+machine+intelligence."/>
 
 </a>
 
@@ -51,61 +51,55 @@ Hi, I'm **Indresh Thakur**
 ---
 
 **> ls /tech-stack**
-> ls /tech-stack
 
 <div align="center">
 
 <table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28"/><br/><sub><b>Python</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28"/><br/><sub><b>Java</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" height="28"/><br/><sub><b>C++</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28"/><br/><sub><b>TypeScript</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28"/><br/><sub><b>React.js</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="28" height="28"/><br/><sub><b>Next.js</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28"/><br/><sub><b>Tailwind CSS</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28"/><br/><sub><b>HTML5</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28"/><br/><sub><b>CSS3</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/framer/0055FF" width="28" height="28"/><br/><sub><b>Framer Motion</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28"/><br/><sub><b>Node.js</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="28" height="28"/><br/><sub><b>Express.js</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" height="28"/><br/><sub><b>FastAPI</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28" height="28"/><br/><sub><b>AWS</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="28" height="28"/><br/><sub><b>Kubernetes</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" height="28"/><br/><sub><b>Docker</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/githubactions/FFFFFF" width="28" height="28"/><br/><sub><b>CI/CD</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="28" height="28"/><br/><sub><b>Vercel</b></sub></td>
-<td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="28" height="28"/><br/><sub><b>LangChain</b></sub></td>
-<td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="28" height="28"/><br/><sub><b>LangGraph</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28" height="28"/><br/><sub><b>RAG</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="28" height="28"/><br/><sub><b>Vector DB</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28"/><br/><sub><b>MongoDB</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28"/><br/><sub><b>MySQL</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" height="28"/><br/><sub><b>PostgreSQL</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" height="28"/><br/><sub><b>Git</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" height="28"/><br/><sub><b>GitHub</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28" height="28"/><br/><sub><b>Postman</b></sub></td>
-</tr>
+<tr><td>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32"/>&nbsp;<b>Python</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32"/>&nbsp;<b>Java</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32"/>&nbsp;<b>C++</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/>&nbsp;<b>TypeScript</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"/>&nbsp;<b>JavaScript</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32"/>&nbsp;<b>React.js</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="32" height="32"/>&nbsp;<b>Next.js</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32"/>&nbsp;<b>Tailwind CSS</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32"/>&nbsp;<b>HTML5</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32"/>&nbsp;<b>CSS3</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/framer/0055FF" width="32" height="32"/>&nbsp;<b>Framer Motion</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32"/>&nbsp;<b>Node.js</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/express/FFFFFF" width="32" height="32"/>&nbsp;<b>Express.js</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" height="32"/>&nbsp;<b>FastAPI</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32"/>&nbsp;<b>AWS</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="32" height="32"/>&nbsp;<b>Kubernetes</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32"/>&nbsp;<b>Docker</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/githubactions/FFFFFF" width="32" height="32"/>&nbsp;<b>CI/CD</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="32" height="32"/>&nbsp;<b>Vercel</b> &nbsp;&nbsp;&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="32" height="32"/>&nbsp;<b>LangChain</b> &nbsp;&nbsp;&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="32" height="32"/>&nbsp;<b>LangGraph</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32" height="32"/>&nbsp;<b>RAG</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" height="32"/>&nbsp;<b>Vector DB</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32"/>&nbsp;<b>MongoDB</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32"/>&nbsp;<b>MySQL</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32"/>&nbsp;<b>PostgreSQL</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32"/>&nbsp;<b>Git</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32"/>&nbsp;<b>GitHub</b> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="32" height="32"/>&nbsp;<b>Postman</b>
+</p>
+
+</td></tr>
 </table>
 
 </div>
-
 ---
 
 **> LeetCode (live)**
 
 <div align="center">
 
-<a href="https://leetcode.com/IThakur09"><img width="100%" src="https://leetcard.jacoblin.cool/IThakur09?theme=dark&font=Fira%20Code&ext=heatmap&border=false" alt="leetcode-live-stats" /></a>
+<a href="https://leetcode.com/IThakur09"><img width="75%" src="https://leetcard.jacoblin.cool/IThakur09?theme=dark&font=Fira%20Code&ext=heatmap&border=false" alt="leetcode-live-stats" /></a>
 
 </div>
 
@@ -115,7 +109,7 @@ Hi, I'm **Indresh Thakur**
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Ithakur2327&show_icons=true&hide_border=true&hide_rank=true&bg_color=000000&title_color=D4AF37&text_color=F8F8F2&icon_color=F5D576" />
+<img widt="170" src="https://github-stats-extended.vercel.app/api?username=Ithakur2327&show_icons=true&hide_border=true&hide_rank=true&bg_color=000000&title_color=D4AF37&text_color=F8F8F2&icon_color=F5D576" />
 
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ithakur2327&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=F8F8F2" />
 
