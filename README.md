@@ -1,8 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=260&color=gradient&customColorList=0,2,5,20,30&text=Indresh%20Thakur&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
-<a href="https://github.com/Ithakur2327">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&repeat=false&lines=Exploring+the+space+between+human+creativity+and+machine+intelligence." alt="typing-tagline"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=000000&text=Indresh%20Thakur&fontColor=0145F2&fontSize=80&fontAlignY=48&fontFamily=Poppins"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=F7B538&center=true&vCenter=true&width=900&repeat=false&lines=Exploring+the+space+between+human+creativity+and+machine+intelligence."/>
+
 </a>
 
 <br/>
@@ -16,20 +17,31 @@
 
 ---
 
-> whoami
+**> whoami**
 
-Hi, I'm **Indresh Thakur**, currently pursuing B.Tech in Computer Science & Engineering (AI) at NIET Greater Noida. I'm a motivated and growth oriented **Full-Stack & AI Developer** passionate about building modern, scalable, and user-focused digital experiences.
+Hi, I'm **Indresh Thakur**
 
-$ cat .profile
+<table align="left">
+<tr><td>
 
-```
- 👨‍💻 AI Software Engineer                   
- 🎓 B.Tech CSE (AI) • NIET Greater Noida    
- ⚡ Full-Stack • AI • LLM Systems           
- 📍 Noida, India                            
- 🚀 Open to Full-Stack & AI Roles           
- ___________________________________________
-```
+
+<img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>AI Software Engineer</b>
+<br/>
+<img src="https://api.iconify.design/mdi:school.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>B.Tech CSE (AI)</b> • NIET Greater Noida
+<br/>
+<img src="https://api.iconify.design/mdi:map-marker.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>Noida, India</b>
+<br/>
+<img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>Open to Full-Stack & AI Roles</b>
+<br/>
+<img src="https://api.iconify.design/mdi:code-braces.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>Code:</b> C++ • Python • JavaScript • TypeScript
+<br/>
+<img src="https://api.iconify.design/mdi:robot-happy-outline.svg?color=%23D4AF37" width="22" height="22"/> &nbsp;&nbsp; <b>Currently Learning:</b> Agentic AI & Multi-Agent Orchestration 🔮
+
+
+</td></tr>
+</table>
+
+<br clear="left"/>
 
 ---
 
@@ -99,7 +111,7 @@ $ cat .profile
 
 ---
 
-> ls /projects --sort=impact
+**> ls /projects **
 
 <details open>
 <summary><b>▶ i.Vision — Personal AI Assistant</b></summary><br/>
@@ -114,19 +126,7 @@ Repo | github.com/Ithakur2327
 
 </details>
 
-<details>
-<summary><b>▶ Portfolio Website</b></summary><br/>
 
-A fully responsive developer portfolio with animated sections, dark/light mode, 3D cards and smooth reveal animations.
-
-Aspect | Detail
----|---
-Stack | Next.js · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui · Vercel
-Impact | Personal developer portfolio showcasing skills, projects and experience
-Live | ithakur.vercel.app
-Repo | github.com/Ithakur2327
-
-</details>
 
 <details>
 <summary><b>▶ HealthnexAI — AI Preventive Healthcare Platform</b></summary><br/>
@@ -141,18 +141,7 @@ Repo | github.com/Ithakur2327
 
 </details>
 
-<details>
-<summary><b>▶ FinLedgerAI — AI Expense Tracker</b></summary><br/>
 
-AI-driven expense tracker that auto-categorizes transactions and delivers smart budget insights with Chart.js dashboards.
-
-Aspect | Detail
----|---
-Stack | React.js · Node.js · MongoDB · OpenAI API · Chart.js
-Impact | Auto-categorized transactions and weekly budget insights
-Repo | github.com/Ithakur2327
-
-</details>
 
 <details>
 <summary><b>▶ SnipixAI — Multimodal RAG Summarizer</b></summary><br/>
@@ -169,7 +158,7 @@ Repo | github.com/Ithakur2327
 
 ---
 
-> cat coding-profiles.sh — LeetCode (live)
+**> cat coding-profiles.sh — LeetCode (live)**
 
 <div align="center">
 
@@ -179,50 +168,23 @@ Repo | github.com/Ithakur2327
 
 ---
 
-> git stats --global
+**> git stats **
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ithakur2327&show_icons=true&count_private=true&hide_border=true&title_color=D4AF37&icon_color=F5D576&text_color=EDE0C0&bg_color=000000&cache_seconds=1800" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ithakur2327&hide_border=true&background=000000&stroke=D4AF37&ring=F5D576&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5D576&dates=F5D576&currStreakNum=D4AF37&sideNums=D4AF37" alt="streak" />
-<br/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithakur2327&layout=compact&hide_border=true&langs_count=8&title_color=D4AF37&text_color=EDE0C0&bg_color=000000" alt="top-langs" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Ithakur2327&show_icons=true&hide_border=true&hide_rank=true&bg_color=000000&title_color=D4AF37&text_color=F8F8F2&icon_color=F5D576" />
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ithakur2327&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=F8F8F2" />
 
 </div>
 
 ---
 
-> activity-graph --timeline
+**> activity-graph --timeline**
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ithakur2327&bg_color=000000&color=D4AF37&line=F5D576&point=D4AF37&area=true&area_color=1A1400&hide_border=true" alt="activity-graph" />
-
-</div>
-
----
-
-> contribution-report --detailed
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ithakur2327&theme=chartreuse_dark" width="100%" alt="profile-details" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ithakur2327&theme=chartreuse_dark" alt="most-commit-language" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ithakur2327&theme=chartreuse_dark&utcOffset=5.5" alt="productive-time" />
-
-</div>
-
----
-
-> ping me
-
-<div align="center">
-
-<a href="mailto:ithakur2327@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/indresh-thakur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://x.com/indresh_dev"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a>
 
 </div>
 
