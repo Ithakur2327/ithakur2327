@@ -23,27 +23,27 @@ Hi, I'm **Indresh Thakur**
 
 <table>
 <tr>
-<td align="center"><img src="https://api.iconify.design/tabler:user-code.svg?color=%23D4AF37&width=35&height=35" width="35" height="35"/></td>
+<td align="center"><img src="https://api.iconify.design/tabler:user-code.svg?color=%23D4AF37&width=30&height=30" width="30" height="30"/></td>
 <td><b>AI Software Engineer</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/mdi:school.svg?color=%23D4AF37&width=35&height=35" width="35" height="35"/></td>
+<td align="center"><img src="https://api.iconify.design/mdi:school.svg?color=%23D4AF37&width=30&height=30" width="30" height="30"/></td>
 <td><b>B.Tech CSE (AI)</b> • NIET Greater Noida</td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/mdi:map-marker.svg?color=%23D4AF37&width=35&height=35" width="35" height="35"/></td>
+<td align="center"><img src="https://api.iconify.design/mdi:map-marker.svg?color=%23D4AF37&width=30&height=30" width="30" height="30"/></td>
 <td><b>Noida, India</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/mdi:code-braces.svg?color=%23D4AF37&width=35&height=35" width="35" height="35"/></td>
+<td align="center"><img src="https://api.iconify.design/mdi:code-braces.svg?color=%23D4AF37&width=30&height=30" width="30" height="30"/></td>
 <td><b>Code:</b> C++ • Python • JavaScript • TypeScript</td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/mdi:robot-happy-outline.svg?color=%23D4AF37&width=35&height=35" width="35" height="35"/></td>
+<td align="center"><img src="https://api.iconify.design/mdi:robot-happy-outline.svg?color=%23D4AF37&width=30&height=30" width="30" height="30"/></td>
 <td><b>Currently Learning:</b> Agentic AI & Multi-Agent Orchestration 🔮</td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23D4AF37&width=35&height=35" width="35" height="35"/></td>
+<td align="center"><img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23D4AF37&width=30&height=30" width="30" height="30"/></td>
 <td><b>Open to Full-Stack & AI Roles</b></td>
 </tr>
 </table>
