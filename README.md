@@ -25,34 +25,46 @@ Hi, I'm **Indresh Thakur**
 <tr>
 <td>
 
-<div style="display:flex;align-items:center;margin-bottom:8px;">
-<img src="https://api.iconify.design/tabler:user-code.svg?color=%23D4AF37" width="22" height="22"/>
-<span style="margin-left:10px;"><b>AI Software Engineer</b></span>
+<div style="display:flex;align-items:center;margin-bottom:10px;">
+<span style="display:flex;align-items:center;justify-content:center;width:34px;height:34px;background:#1A1A1A;border:1px solid #D4AF37;border-radius:10px;">
+<img src="https://api.iconify.design/tabler:user-code.svg?color=%23D4AF37" width="18" height="18"/>
+</span>
+<span style="margin-left:12px;"><b>AI Software Engineer</b></span>
 </div>
 
-<div style="display:flex;align-items:center;margin-bottom:8px;">
-<img src="https://api.iconify.design/mdi:school.svg?color=%23D4AF37" width="22" height="22"/>
-<span style="margin-left:10px;"><b>B.Tech CSE (AI)</b> • NIET Greater Noida</span>
+<div style="display:flex;align-items:center;margin-bottom:10px;">
+<span style="display:flex;align-items:center;justify-content:center;width:34px;height:34px;background:#1A1A1A;border:1px solid #D4AF37;border-radius:10px;">
+<img src="https://api.iconify.design/mdi:school.svg?color=%23D4AF37" width="18" height="18"/>
+</span>
+<span style="margin-left:12px;"><b>B.Tech CSE (AI)</b> • NIET Greater Noida</span>
 </div>
 
-<div style="display:flex;align-items:center;margin-bottom:8px;">
-<img src="https://api.iconify.design/mdi:map-marker.svg?color=%23D4AF37" width="22" height="22"/>
-<span style="margin-left:10px;"><b>Noida, India</b></span>
+<div style="display:flex;align-items:center;margin-bottom:10px;">
+<span style="display:flex;align-items:center;justify-content:center;width:34px;height:34px;background:#1A1A1A;border:1px solid #D4AF37;border-radius:10px;">
+<img src="https://api.iconify.design/mdi:map-marker.svg?color=%23D4AF37" width="18" height="18"/>
+</span>
+<span style="margin-left:12px;"><b>Noida, India</b></span>
 </div>
 
-<div style="display:flex;align-items:center;margin-bottom:8px;">
-<img src="https://api.iconify.design/mdi:code-braces.svg?color=%23D4AF37" width="22" height="22"/>
-<span style="margin-left:10px;"><b>Code:</b> C++ • Python • JavaScript • TypeScript</span>
+<div style="display:flex;align-items:center;margin-bottom:10px;">
+<span style="display:flex;align-items:center;justify-content:center;width:34px;height:34px;background:#1A1A1A;border:1px solid #D4AF37;border-radius:10px;">
+<img src="https://api.iconify.design/mdi:code-braces.svg?color=%23D4AF37" width="18" height="18"/>
+</span>
+<span style="margin-left:12px;"><b>Code:</b> C++ • Python • JavaScript • TypeScript</span>
 </div>
 
-<div style="display:flex;align-items:center;margin-bottom:8px;">
-<img src="https://api.iconify.design/mdi:robot-happy-outline.svg?color=%23D4AF37" width="22" height="22"/>
-<span style="margin-left:10px;"><b>Currently Learning:</b> Agentic AI & Multi-Agent Orchestration 🔮</span>
+<div style="display:flex;align-items:center;margin-bottom:10px;">
+<span style="display:flex;align-items:center;justify-content:center;width:34px;height:34px;background:#1A1A1A;border:1px solid #D4AF37;border-radius:10px;">
+<img src="https://api.iconify.design/mdi:robot-happy-outline.svg?color=%23D4AF37" width="18" height="18"/>
+</span>
+<span style="margin-left:12px;"><b>Currently Learning:</b> Agentic AI & Multi-Agent Orchestration 🔮</span>
 </div>
 
 <div style="display:flex;align-items:center;">
-<img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23D4AF37" width="22" height="22"/>
-<span style="margin-left:10px;"><b>Open to Full-Stack & AI Roles</b></span>
+<span style="display:flex;align-items:center;justify-content:center;width:34px;height:34px;background:#1A1A1A;border:1px solid #D4AF37;border-radius:10px;">
+<img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%23D4AF37" width="18" height="18"/>
+</span>
+<span style="margin-left:12px;"><b>Open to Full-Stack & AI Roles</b></span>
 </div>
 
 </td>
