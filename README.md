@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=Indresh%20Thakur&fontColor=F5F5F5&fontSize=38&fontAlignY=55&fontFamily=Poppins" alt="name-banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=Indresh%20Thakur&fontColor=F5F5F5&fontSize=38&fontAlignY=55&fontFamily=Poppins" alt="name-banner" />
 
 <a href="https://github.com/Ithakur2327"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=900&repeat=false&lines=Exploring+the+space+between+human+creativity+and+machine+intelligence." alt="typing-tagline" /></a>
 
