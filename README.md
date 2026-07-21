@@ -7,8 +7,8 @@
 <br/>
 
 <a href="mailto:ithakur2327@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://www.linkedin.com/in/indresh-thakur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://x.com/indresh_dev"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a>
+<a href="https://www.linkedin.com/in/indresh-thakur-265713299/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://x.com/ithakur"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a>
 <a href="https://ithakur.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white" alt="portfolio" /></a>
 
 </div>
@@ -26,9 +26,7 @@ $ cat .profile
 ```
 ROLE        =  AI Software Engineer / Full-Stack Developer
 STATUS      =  B.Tech, Computer Science & Engineering (AI) — NIET Greater Noida
-DOMAIN      =  Web Development  |  AI / LLM Systems  |  Competitive Programming
-SIDE_BUILD  =  i.Vision  |  HealthnexAI  |  FinLedgerAI  |  SnipixAI
-PORTFOLIO   =  ithakur.vercel.app
+DOMAIN      =  Web Development  |  AI / LLM Systems 
 LOCATION    =  Noida, India
 OPEN_TO     =  Full-Stack / AI Engineering Roles
 ```
