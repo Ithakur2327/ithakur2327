@@ -7,7 +7,7 @@
 <br/><br/>
 
 <a href="mailto:ithakur2327@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://www.linkedin.com/in/indresh-thakur"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/indresh-thakur"><img src="https://img.shields.io/badge/-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://x.com/indresh_dev"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a>
 <a href="https://ithakur.vercel.app"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 
@@ -225,7 +225,7 @@ Repo | github.com/Ithakur2327
 <div align="center">
 
 <a href="mailto:ithakur2327@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/indresh-thakur"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/indresh-thakur"><img src="https://img.shields.io/badge/-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://x.com/indresh_dev"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a>
 
 </div>
