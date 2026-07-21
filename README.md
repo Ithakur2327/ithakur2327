@@ -17,16 +17,17 @@
 
 > whoami
 
-Full-Stack & AI Developer and Competitive Programmer, currently pursuing B.Tech in Computer Science & Engineering (AI) at NIET Greater Noida. I'm motivated and growth-oriented, passionate about building modern, scalable, user-focused digital experiences.
+Hi, I'm **Indresh Thakur**, currently pursuing B.Tech in Computer Science & Engineering (AI) at NIET Greater Noida. I'm a motivated and growth oriented **Full-Stack & AI Developer** passionate about building modern, scalable, and user-focused digital experiences.
 
 $ cat .profile
 
 ```
-ROLE        =  AI Software Engineer / Full-Stack Developer
-STATUS      =  B.Tech, Computer Science & Engineering (AI) — NIET Greater Noida
-DOMAIN      =  Web Development  |  AI / LLM Systems 
-LOCATION    =  Noida, India
-OPEN_TO     =  Full-Stack / AI Engineering Roles
+ 👨‍💻 AI Software Engineer                   
+ 🎓 B.Tech CSE (AI) • NIET Greater Noida    
+ ⚡ Full-Stack • AI • LLM Systems           
+ 📍 Noida, India                            
+ 🚀 Open to Full-Stack & AI Roles           
+ ___________________________________________
 ```
 
 ---
