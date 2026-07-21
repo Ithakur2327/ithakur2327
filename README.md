@@ -2,20 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=Indresh%20Thakur&fontColor=F5F5F5&fontSize=40&fontAlignY=55" alt="name-banner" />
 
-<a href="https://github.com/Ithakur2327"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1500&color=D4AF37&background=00000000&center=true&vCenter=true&width=800&repeat=true&lines=Exploring+the+space+between+human+creativity+and+machine+intelligence." alt="typing-tagline" /></a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI)-NIET%20Greater%20Noida-D4AF37?style=flat-square&labelColor=000000&color=1A1400&logo=graduation-cap&logoColor=D4AF37" alt="degree" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_Noida%2C%20India-1A1400?style=flat-square&labelColor=000000&logoColor=D4AF37" alt="location" />
-<img src="https://img.shields.io/badge/ithakur.vercel.app-1A1400?style=flat-square&labelColor=000000&logo=vercel&logoColor=D4AF37" alt="portfolio" />
+<a href="https://github.com/Ithakur2327"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1500&color=D4AF37&background=00000000&center=true&vCenter=true&width=900&repeat=false&lines=Exploring+the+space+between+human+creativity+and+machine+intelligence." alt="typing-tagline" /></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/indresh-thakur"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" alt="linkedin" /></a>
-<a href="mailto:ithakur2327@gmail.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="email" /></a>
-<a href="https://github.com/Ithakur2327"><img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="github" /></a>
-<a href="https://x.com/indresh_dev"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-D4AF37?style=for-the-badge&logo=x&logoColor=000000&labelColor=000000" alt="twitter" /></a>
+<a href="mailto:ithakur2327@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://www.linkedin.com/in/indresh-thakur"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://x.com/indresh_dev"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a>
+<a href="https://ithakur.vercel.app"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 
 </div>
 
@@ -185,17 +179,11 @@ Repo | github.com/Ithakur2327
 
 </div>
 
-*Auto-updates on every page load — total solved, Easy / Medium / Hard breakdown, and ranking pull live from LeetCode.*
-
 ---
 
 > git stats --global
 
 <div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/D4AF37/Ithakur2327" alt="real GitHub contribution heatmap" />
-
-<br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ithakur2327&show_icons=true&count_private=true&hide_border=true&title_color=D4AF37&icon_color=F5D576&text_color=EDE0C0&bg_color=000000" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ithakur2327&hide_border=true&background=000000&stroke=D4AF37&ring=F5D576&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5D576&dates=F5D576&currStreakNum=D4AF37&sideNums=D4AF37" alt="streak" />
@@ -236,10 +224,9 @@ Repo | github.com/Ithakur2327
 
 <div align="center">
 
-<a href="mailto:ithakur2327@gmail.com"><img src="https://img.shields.io/badge/-D4AF37?style=for-the-badge&logo=gmail&logoColor=000000" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/indresh-thakur"><img src="https://img.shields.io/badge/-D4AF37?style=for-the-badge&logo=linkedin&logoColor=000000" alt="linkedin" /></a>
-<a href="https://github.com/Ithakur2327"><img src="https://img.shields.io/badge/-D4AF37?style=for-the-badge&logo=github&logoColor=000000" alt="github" /></a>
-<a href="https://x.com/indresh_dev"><img src="https://img.shields.io/badge/-D4AF37?style=for-the-badge&logo=x&logoColor=000000" alt="twitter" /></a>
+<a href="mailto:ithakur2327@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/indresh-thakur"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://x.com/indresh_dev"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a>
 
 </div>
 
@@ -255,7 +242,5 @@ Repo | github.com/Ithakur2327
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Ithakur2327&style=flat-square&color=D4AF37&labelColor=000000&label=Profile+Views" alt="views" />
-<img src="https://img.shields.io/github/followers/Ithakur2327?style=flat-square&color=D4AF37&labelColor=000000&logo=github&label=Followers" alt="followers" />
-<img src="https://img.shields.io/github/stars/Ithakur2327?style=flat-square&color=D4AF37&labelColor=000000&logo=github&label=Stars" alt="stars" />
 
 </div>
