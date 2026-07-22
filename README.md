@@ -109,11 +109,8 @@ Hi, I'm **Indresh Thakur**
 **> git stats**
 
 <div align="center">
-
-<img widt="170" src="https://github-stats-extended.vercel.app/api?username=Ithakur2327&show_icons=true&hide_border=true&hide_rank=true&bg_color=000000&title_color=D4AF37&text_color=F8F8F2&icon_color=F5D576" />
-
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Ithakur2327&show_icons=true&hide_border=true&hide_rank=true&bg_color=000000&title_color=D4AF37&text_color=F8F8F2&icon_color=F5D576&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ithakur2327&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=F8F8F2" />
-
 </div>
 
 ---
