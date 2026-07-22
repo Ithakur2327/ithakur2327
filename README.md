@@ -131,10 +131,6 @@ Hi, I'm **Indresh Thakur**
 <div align="center">
 <sub><i>// building modern, scalable, user-focused digital experiences</i></sub>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=000000&fontColor=D4AF37" alt="footer" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Ithakur2327&style=flat-square&color=D4AF37&labelColor=000000&label=Profile+Views" alt="views" />
