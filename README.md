@@ -131,7 +131,7 @@ Hi, I'm **Indresh Thakur**
 <div align="center">
 <sub><i>// building modern, scalable, user-focused digital experiences</i></sub>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Ithakur2327&style=flat-square&color=D4AF37&labelColor=000000&label=Profile+Views" alt="views" />
 
