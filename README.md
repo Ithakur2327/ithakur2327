@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=000000&text=Indresh%20Thakur&fontColor=0145F2&fontSize=85&fontAlignY=48&fontFamily=Poppins"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=000000&text=Sup!%20I%27m%20Indresh&font=Black%20Han%20Sans&fontColor=0145F2&fontSize=75&fontAlignY=50" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=F7B538&center=true&vCenter=true&width=900&repeat=true&lines=Exploring+the+space+between+human+creativity+and+machine+intelligence."/>
 
