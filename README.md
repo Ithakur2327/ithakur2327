@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center">
+<p>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=000000&text=Sup!%20I%27m%20Indresh&font=Black%20Han%20Sans&fontColor=0145F2&fontSize=75&fontAlignY=50" />
 </p>
 
