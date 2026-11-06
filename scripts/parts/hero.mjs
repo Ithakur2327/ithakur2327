@@ -8,7 +8,7 @@ export function hero(p) {
   // name in bold Inter (Apple-style), sized so the longest line always fits the left column
   const o = { font: "display", weight: 800, ls: -3 };
   const widest = Math.max(measure(p.first, { ...o, size: 100 }), measure(p.last, { ...o, size: 100 }));
-  const ns = Math.min(115, (570 / widest) * 100);
+  const ns = Math.min(105, (570 / widest) * 100);
   const left = [
     `<path d="M72 71l7 7-7 7-7-7z" fill="${C.gold}"/>`,
     txt(p.role, { x: 94, y: 85, size: 21, weight: 600, fill: C.aqua }),
