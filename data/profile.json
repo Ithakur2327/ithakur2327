@@ -1,0 +1,330 @@
+{
+  "name": "Indresh Thakur",
+  "first": "Indresh",
+  "last": "Thakur",
+  "role": "AI Software Engineer",
+  "tagline": [
+    "I build agents, RAG systems and the",
+    "full-stack products around them."
+  ],
+  "status": "Open to AI and full-stack roles",
+  "location": "Noida, India",
+  "github": "Ithakur2327",
+  "reposUrl": "https://github.com/Ithakur2327?tab=repositories",
+  "leetcode": {
+    "user": "IThakur09",
+    "fallback": {
+      "solved": 800,
+      "rating": 1600,
+      "plus": true
+    }
+  },
+  "codechef": {
+    "user": "",
+    "fallback": {
+      "rating": 1400
+    }
+  },
+  "codeforces": {
+    "user": "",
+    "fallback": {
+      "rating": 1000,
+      "plus": true
+    }
+  },
+  "links": [
+    {
+      "id": "portfolio",
+      "label": "Portfolio",
+      "icon": "globe",
+      "url": "https://ithakur.vercel.app"
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/ithakur09/"
+    },
+    {
+      "id": "x",
+      "label": "X",
+      "icon": "x",
+      "url": "https://x.com/ithakur__"
+    },
+    {
+      "id": "leetcode",
+      "label": "LeetCode",
+      "icon": "leetcode",
+      "url": "https://leetcode.com/IThakur09"
+    },
+    {
+      "id": "email",
+      "label": "Email",
+      "icon": "mail",
+      "url": "mailto:ithakur2327@gmail.com"
+    }
+  ],
+  "state": [
+    [
+      "building",
+      "agent workflows, RAG systems, full-stack apps"
+    ],
+    [
+      "now",
+      "freelance full-stack developer since Dec 2025"
+    ],
+    [
+      "studying",
+      "B.Tech CSE (AI) at NIET, Greater Noida"
+    ],
+    [
+      "exploring",
+      "multi-agent orchestration and agentic AI"
+    ]
+  ],
+  "projects": [
+    {
+      "id": "flowforge",
+      "name": "FlowForge",
+      "repo": "FlowForgeAI",
+      "pitch": "Orchestrates specialist agents through durable, multi-step workflows, with a human approving the risky steps.",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "LangGraph",
+        "PostgreSQL",
+        "MCP"
+      ],
+      "url": "https://github.com/Ithakur2327/FlowForgeAI",
+      "cta": "View on GitHub",
+      "alt": "FlowForge: AI workflow orchestration with specialist agents, human approvals and PostgreSQL checkpointing, built with LangGraph and FastAPI."
+    },
+    {
+      "id": "querypilot",
+      "name": "QueryPilot",
+      "repo": "QueryPilot",
+      "pitch": "Turns plain-English questions into validated SQL, runs it, and explains the result.",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "LangGraph",
+        "SQLGlot",
+        "Next.js"
+      ],
+      "url": "https://github.com/Ithakur2327/QueryPilot",
+      "cta": "View on GitHub",
+      "alt": "QueryPilot: a text-to-SQL analytics agent built on LangGraph with SQLGlot validation and human review before execution."
+    },
+    {
+      "id": "ivision",
+      "name": "I.Vision",
+      "repo": "I.Vision",
+      "pitch": "A personal AI that answers from your own documents, with sources, instead of guessing.",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "React",
+        "MongoDB"
+      ],
+      "url": "https://github.com/Ithakur2327/I.Vision",
+      "cta": "View on GitHub",
+      "alt": "I.Vision: a personal RAG assistant that answers from your own documents with source references and streaming replies."
+    },
+    {
+      "id": "healthnex",
+      "name": "HealthnexAI",
+      "repo": "HealthnexAI",
+      "pitch": "Turns lifestyle and family history into a personal risk score and a prevention plan.",
+      "tags": [
+        "React",
+        "Node.js",
+        "Express",
+        "LLM APIs"
+      ],
+      "url": "https://github.com/Ithakur2327/HealthnexAI",
+      "cta": "View on GitHub",
+      "alt": "HealthnexAI: a preventive health platform that scores risk from lifestyle and family history and generates prevention plans."
+    },
+    {
+      "id": "snipix",
+      "name": "SnipixAI",
+      "repo": "SnipixAI",
+      "pitch": "Chat with, summarize and quiz yourself on any document you upload.",
+      "tags": [
+        "React",
+        "FastAPI",
+        "LangChain",
+        "RAG"
+      ],
+      "url": "https://github.com/Ithakur2327/SnipixAI",
+      "cta": "View on GitHub",
+      "alt": "SnipixAI: upload PDFs, DOCX, slides, links or images, then chat with them, summarize them and generate exams using RAG."
+    }
+  ],
+  "stack": [
+    {
+      "title": "Languages",
+      "items": [
+        [
+          "Python",
+          "python"
+        ],
+        [
+          "TypeScript",
+          "typescript"
+        ],
+        [
+          "JavaScript",
+          "javascript"
+        ],
+        [
+          "C++",
+          "cpp"
+        ]
+      ]
+    },
+    {
+      "title": "Frontend",
+      "items": [
+        [
+          "HTML5",
+          "html5"
+        ],
+        [
+          "CSS3",
+          "css3"
+        ],
+        [
+          "React",
+          "react"
+        ],
+        [
+          "Next.js",
+          "nextjs"
+        ],
+        [
+          "Tailwind CSS",
+          "tailwind"
+        ]
+      ]
+    },
+    {
+      "title": "Backend and data",
+      "items": [
+        [
+          "FastAPI",
+          "fastapi"
+        ],
+        [
+          "REST APIs",
+          "rest"
+        ],
+        [
+          "PostgreSQL",
+          "postgres"
+        ],
+        [
+          "MySQL",
+          "mysql"
+        ],
+        [
+          "MongoDB",
+          "mongodb"
+        ]
+      ]
+    },
+    {
+      "title": "AI engineering",
+      "items": [
+        [
+          "LangChain",
+          "langchain"
+        ],
+        [
+          "LangGraph",
+          "langgraph"
+        ],
+        [
+          "RAG",
+          "rag"
+        ],
+        [
+          "Vector DBs",
+          "vector"
+        ],
+        [
+          "LLM APIs",
+          "llm"
+        ]
+      ]
+    },
+    {
+      "title": "DevOps and tools",
+      "items": [
+        [
+          "Docker",
+          "docker"
+        ],
+        [
+          "Kubernetes",
+          "kubernetes"
+        ],
+        [
+          "AWS",
+          "cloud"
+        ],
+        [
+          "Git",
+          "git"
+        ],
+        [
+          "GitHub",
+          "github"
+        ],
+        [
+          "VS Code",
+          "vscode"
+        ],
+        [
+          "Postman",
+          "postman"
+        ],
+        [
+          "Vercel",
+          "vercel"
+        ]
+      ]
+    },
+    {
+      "title": "CS fundamentals",
+      "items": [
+        [
+          "DSA",
+          "dsa"
+        ],
+        [
+          "OOP",
+          "oop"
+        ],
+        [
+          "System design",
+          "sysdesign",
+          "HLD and LLD"
+        ],
+        [
+          "Operating systems",
+          "os"
+        ],
+        [
+          "DBMS",
+          "dbms"
+        ],
+        [
+          "Networks",
+          "network"
+        ]
+      ]
+    }
+  ]
+}
