@@ -6,7 +6,7 @@ import { Resvg } from "@resvg/resvg-js";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const md = fs.readFileSync(path.join(root, "README.md"), "utf8");
-const refs = [...md.matchAll(/(?:src|href)="([^"]+)"/g)].map((m) => m[1]);
+const refs = [...md.matchAll(/(?:srcset|src|href)="([^"]+)"/g)].map((m) => m[1].replace(/&amp;/g, "&"));
 const uniq = [...new Set(refs)];
 const BOT_WALLED = /(^|\.)(linkedin\.com|x\.com|twitter\.com)$/;
 let bad = 0;

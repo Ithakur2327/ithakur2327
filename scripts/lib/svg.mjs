@@ -94,8 +94,8 @@ const SIKEY = {
 };
 
 const CUSTOM_BRAND = {
-  cloud: "#FF9900", vscode: "#007ACC", rest: "#49A942", rag: "#8B5CF6", vector: "#06B6D4", llm: "#FF5A36",
-  dsa: "#16A34A", oop: "#F59E0B", sysdesign: "#6366F1", os: "#64748B", dbms: "#0EA5E9", network: "#14B8A6",
+  cloud: "#7DD3FC", vscode: "#007ACC", rest: "#49A942", rag: "#8B5CF6", vector: "#06B6D4", llm: "#F472B6",
+  dsa: "#16A34A", oop: "#A3E635", sysdesign: "#6366F1", os: "#64748B", dbms: "#0EA5E9", network: "#14B8A6",
 };
 // The real brand colour of a skill (simple-icons hex), or a fixed colour for concepts without a logo.
 const lum = (hex) => { const [r, g, b] = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255).map((v) => (v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4)); return 0.2126 * r + 0.7152 * g + 0.0722 * b; };

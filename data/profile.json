@@ -87,7 +87,7 @@
       "id": "flowforge",
       "name": "FlowForge",
       "repo": "FlowForgeAI",
-      "pitch": "Orchestrates specialist agents through durable, multi-step workflows, with a human approving the risky steps.",
+      "pitch": "Runs multi-step AI workflows that survive failures. A supervisor routes work to specialist agents that call tools over MCP, every step is checkpointed in PostgreSQL so a run can resume, and risky actions pause for human approval.",
       "tags": [
         "Python",
         "FastAPI",
@@ -97,13 +97,13 @@
       ],
       "url": "https://github.com/Ithakur2327/FlowForgeAI",
       "cta": "View on GitHub",
-      "alt": "FlowForge: AI workflow orchestration with specialist agents, human approvals and PostgreSQL checkpointing, built with LangGraph and FastAPI."
+      "alt": "FlowForge: Runs multi-step AI workflows that survive failures. A supervisor routes work to specialist agents that call tools over MCP, every step is checkpointed in PostgreSQL so a run can resume, and risky actions pause for human approval."
     },
     {
       "id": "querypilot",
       "name": "QueryPilot",
       "repo": "QueryPilot",
-      "pitch": "Turns plain-English questions into validated SQL, runs it, and explains the result.",
+      "pitch": "Ask your database questions in plain English. It writes the SQL, validates it with SQLGlot, waits for human review, runs it on the supported databases and explains the result. LangGraph retries and corrects queries that fail.",
       "tags": [
         "Python",
         "FastAPI",
@@ -113,53 +113,41 @@
       ],
       "url": "https://github.com/Ithakur2327/QueryPilot",
       "cta": "View on GitHub",
-      "alt": "QueryPilot: a text-to-SQL analytics agent built on LangGraph with SQLGlot validation and human review before execution."
+      "alt": "QueryPilot: Ask your database questions in plain English. It writes the SQL, validates it with SQLGlot, waits for human review, runs it on the supported databases and explains the result. LangGraph retries and corrects queries that fail."
     },
     {
       "id": "ivision",
       "name": "I.Vision",
       "repo": "I.Vision",
-      "pitch": "A personal AI that answers from your own documents, with sources, instead of guessing.",
+      "pitch": "Your own knowledge, searchable by chat. Feed it PDFs, docs, slides, websites and YouTube transcripts; it retrieves the best-matching chunks, streams the answer with cited sources, and says so when it doesn’t know instead of guessing.",
       "tags": [
         "Python",
         "FastAPI",
-        "LangChain",
-        "React",
-        "MongoDB"
+        "Next.js",
+        "Qdrant",
+        "PostgreSQL",
+        "Groq"
       ],
       "url": "https://github.com/Ithakur2327/I.Vision",
       "cta": "View on GitHub",
-      "alt": "I.Vision: a personal RAG assistant that answers from your own documents with source references and streaming replies."
+      "alt": "I.Vision: Your own knowledge, searchable by chat. Feed it PDFs, docs, slides, websites and YouTube transcripts; it retrieves the best-matching chunks, streams the answer with cited sources, and says so when it doesn’t know instead of guessing."
     },
     {
       "id": "healthnex",
       "name": "HealthnexAI",
       "repo": "HealthnexAI",
-      "pitch": "Turns lifestyle and family history into a personal risk score and a prevention plan.",
+      "pitch": "Health risk assessment from lifestyle and family history. ML models estimate risk for diabetes, heart disease, blood pressure, obesity and mental health, and an LLM assistant explains the result and builds a personal prevention plan.",
       "tags": [
         "React",
         "Node.js",
         "Express",
+        "MongoDB",
+        "ML models",
         "LLM APIs"
       ],
       "url": "https://github.com/Ithakur2327/HealthnexAI",
       "cta": "View on GitHub",
-      "alt": "HealthnexAI: a preventive health platform that scores risk from lifestyle and family history and generates prevention plans."
-    },
-    {
-      "id": "snipix",
-      "name": "SnipixAI",
-      "repo": "SnipixAI",
-      "pitch": "Chat with, summarize and quiz yourself on any document you upload.",
-      "tags": [
-        "React",
-        "FastAPI",
-        "LangChain",
-        "RAG"
-      ],
-      "url": "https://github.com/Ithakur2327/SnipixAI",
-      "cta": "View on GitHub",
-      "alt": "SnipixAI: upload PDFs, DOCX, slides, links or images, then chat with them, summarize them and generate exams using RAG."
+      "alt": "HealthnexAI: Health risk assessment from lifestyle and family history. ML models estimate risk for diabetes, heart disease, blood pressure, obesity and mental health, and an LLM assistant explains the result and builds a personal prevention plan."
     }
   ],
   "stack": [
@@ -177,6 +165,10 @@
         [
           "JavaScript",
           "javascript"
+        ],
+        [
+          "Java",
+          "java"
         ],
         [
           "C++",
@@ -326,5 +318,10 @@
         ]
       ]
     }
-  ]
+  ],
+  "counter": {
+    "user": "Ithakur2327",
+    "base": 500,
+    "color": "4f6bd8"
+  }
 }

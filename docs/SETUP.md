@@ -9,12 +9,13 @@ CodeChef, Codeforces and repository facts stay current without any manual work.
 | Panel | Source | Updates when |
 | --- | --- | --- |
 | Contribution skyline, streaks, busiest day | GitHub contributions (GraphQL with the Action token, public page as fallback) | you commit, open a PR or review |
-| Project cards: "updated", stars, latest commit | GitHub repos API and each repo's commit feed | you push to that repo |
-| More projects: count and recently active repos | GitHub repos API | you create or push to any repo |
+| Project cards: "updated" | GitHub repos API | you push to that repo |
 | LeetCode: solved split, contest rating and history | LeetCode GraphQL | you solve a problem or take a contest |
-| CodeChef and Codeforces ratings | CodeChef profile page, Codeforces API | you take a contest |
+| CodeChef and Codeforces ratings | CodeChef profile page, Codeforces API | you take a contest (needs your handles, see below) |
+| Profile views | Komarev counter image (external) | someone opens the profile |
 
 If a source is down, the build keeps the last good value (stored in `data/stats.json`) instead of failing.
+`data/stats.json` currently holds your last known LeetCode, CodeChef and Codeforces numbers; the first live sync replaces them.
 
 ## First-time setup
 
@@ -27,16 +28,33 @@ If a source is down, the build keeps the last good value (stored in `data/stats.
 All text and links live in `data/profile.json`:
 
 - `codechef.user` and `codeforces.user`: add your handles to make those two cards live (and clickable).
-- `projects`: name, pitch, tags, repo, url. The order here is the order on the page.
-- `stack`: the skill chips. Icons come from `simple-icons`; concepts without a logo use a drawn glyph.
-- `state`: the "Right now" card.
+- `projects`: name, pitch, tags, repo, url. The order here is the order on the page. A project's card shows "updated ..." from its repo.
+- `stack`: the tool rows. Icons come from `simple-icons`; concepts without a logo use a drawn glyph.
+- `state`: the "Current focus" card.
+- Colours: the accent (violet) lives in one place, `K.acc` and `K.accHi` in `scripts/kit/core.mjs` (plus the matching gradients `D.cor` and `D.btn` right below it); change those and every panel follows. The skyline colours are the `RAMP` in `scripts/kit/sections.mjs`.
+- `counter`: `user`, `base` and `color` of the profile-views badge. `base` is added to the count (it starts you at 500). If your
+  old counter was also Komarev with the same username, the old count is already stored there, so delete `base`.
 
 After editing, rebuild locally and push:
 
 ```bash
 npm ci
 npm run build        # fetches live data and redraws everything
+npm run preview      # builds into .preview/ and writes .preview/index.html (animated, like GitHub)
 npm run check        # optional: verifies every link and image in README.md
 ```
 
 The Action also rebuilds on every push that touches `scripts/` or `data/profile.json`.
+
+## How the artwork is built
+
+- `scripts/kit/core.mjs` is the drawing kit: the glass panel, the thin section box and the slicer.
+- `scripts/kit/flow.mjs` draws the diagrams. Connectors are drawn first and boxes after them, and every moving light
+  (a shine plus tiny dots) travels only along its own connector, so it can never pass inside a box.
+- `scripts/kit/sections.mjs` has one function per section. `scripts/kit/readme.mjs` writes `README.md` from the same slices.
+- Each section is drawn once and then cut into slices. Only the real links (the project buttons, "Browse all repositories",
+  the platform names in Stats / CP, and the five round link buttons) are their own clickable slices; everything else is plain image.
+  Every slice that sits in the middle of a panel is at least 62px tall, because a browser never draws a line shorter than about 24px
+  and would otherwise leave a gap on phones. `npm run build` stops with an error if a layout change breaks that rule.
+- Section titles exist in a dark and a light version and are chosen with `<picture>`, so the page reads on both GitHub themes.
+- Animations are plain SVG attribute animations (no filters, no scripts), so they stay light on the browser.

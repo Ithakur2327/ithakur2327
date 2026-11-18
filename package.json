@@ -1,9 +1,9 @@
 {
   "name": "ithakur2327-profile",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
-  "description": "Profile README for Indresh Thakur. Every panel is drawn by code and rebuilt daily by GitHub Actions.",
+  "description": "Profile README for Indresh Thakur. Every panel is drawn by code (animated SVG, sliced so only buttons are links) and rebuilt every 3 hours by GitHub Actions.",
   "scripts": {
     "build": "node scripts/build.mjs",
     "build:offline": "node scripts/build.mjs --offline",

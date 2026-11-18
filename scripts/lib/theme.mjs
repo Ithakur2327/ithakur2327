@@ -5,11 +5,11 @@ export const C = {
   abyss: "#05060A", ink: "#0B0D14", deep: "rgba(255,255,255,0.075)", panel: "rgba(255,255,255,0.085)", panelSolid: "#1F2536",
   chip: "#222838", lagoon: "#2A3146", line: "#3C4663",
   tiffany: "#7C9BFF", aqua: "#A9BEFF", mist: "#A9B1C6", dim: "#717A92", pearl: "#EEF1FA",
-  gold: "#FF7A59", champagne: "#FFA58C", amber: "#E8502C", goldTop: "#FFC9B8", tokCore: "#FFF0EA",
+  gold: "#B388FF", champagne: "#DCC8FF", amber: "#8A5CF6", goldTop: "#EADBFF", tokCore: "#F6EFFF",
   blueTop: "#DCE6FF", blueMid: "#93B0FF", blueBot: "#4C78FF",
   title: "#FFFFFF", page: "#000000",
   // backdrop blobs behind the glass: deliberately muted
-  blobs: ["#3A55B8", "#A9573F", "#8A7860", "#5C4FA3"], blobOp: [0.40, 0.30, 0.20, 0.26],
+  blobs: ["#3A55B8", "#7E4FD6", "#3F7F9A", "#5C4FA3"], blobOp: [0.40, 0.30, 0.20, 0.26],
 };
 
 export const esc = (s) =>
