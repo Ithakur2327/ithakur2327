@@ -18,7 +18,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-00a-d.svg"/><img src="assets/stats-00a-l.svg" alt="Stats and competitive programming: LeetCode 817 problems solved, CodeChef rating 1,400, Codeforces rating 1,043." width="100%" align="top"/></picture>
 <img src="assets/stats-01a.svg" alt="" width="4.4578%" align="top"/><a href="https://leetcode.com/IThakur09"><img src="assets/stats-01b.svg" alt="LeetCode profile of IThakur09" width="16.0241%" align="top"/></a><img src="assets/stats-01c.svg" alt="" width="79.5081%" align="top"/>
 <img src="assets/stats-02a.svg" alt="" width="100%" align="top"/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contrib-00a-d.svg"/><img src="assets/contrib-00a-l.svg" alt="GitHub contributions over the last 12 months as an isometric skyline, one block per day, taller and warmer for busier days: 1,853 contributions on 183 days." width="100%" align="top"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contrib-00a-d.svg"/><img src="assets/contrib-00a-l.svg" alt="GitHub contributions over the last 12 months as an isometric skyline, one block per day, taller and warmer for busier days: 1,856 contributions on 184 days." width="100%" align="top"/></picture>
 <img src="assets/contrib-01a.svg" alt="" width="100%" align="top"/>
 <img src="assets/closing-00a.svg" alt="Let’s build something people actually use." width="100%" align="top"/>
 <img src="https://komarev.com/ghpvc/?username=Ithakur2327&amp;label=Profile+views&amp;color=4f6bd8&amp;style=flat-square&amp;base=500" alt="Profile views" height="20" align="top"/>
